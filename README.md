@@ -1,2 +1,1 @@
-# cyber_tactics
-My research
+My research planning and coordination repository.
