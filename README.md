@@ -1,14 +1,14 @@
 My research planning and coordination repository.
 
-Issues contains all the phases related to doctoral studies: Basic studies, research plan, the research phases, thesis defence & ending byrocracy.
+[Issues](/../../issues) contains all the phases related to doctoral studies: Basic studies, research plan, the research phases, thesis defence & ending byrocracy.
 
-Projects contains more detailed follow up and scheduling for each issue.
+[Projects](/../../projects) contains more detailed follow up and scheduling for each issue.
 
-Wiki contains research plan and memos supporting the research.
+[Wiki](/../../wiki) contains research plan and memos supporting the research.
 
 Actual texts, essayes etc. are not stored in wiki. This may be cosidered again after the research is done.
 
-**Studies**
+**Studies markup**
 - Not started :red_circle:
 - Working on :hammer:
 - Under evaluation :mortar_board:
