@@ -9,3 +9,6 @@ My research planning and coordination repository.
 - Working on :hammer:
 - Under evaluation :mortar_board:
 - Done:heavy_check_mark:
+
+**Few references**
+[Näin viittaat](https://koppa.jyu.fi/avoimet/kirjasto/kirjastotuutori/lahteet-hallintaan/lahteet-viittaukset/nain-viittaat)
